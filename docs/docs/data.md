@@ -98,7 +98,7 @@ Load a JavaScript Object Notation (JSON) file using the [TopoJSON](https://githu
 Here is an example defining data directly in a specification:
 
 ```json
-{"name": "table", "values": [12, 23, 47, 6, 52, 19]}
+{"name": "table", "values": [5, 3, 8, 1]}
 ```
 
 One can also load data from an external file (in this case, a JSON file):
